@@ -6,5 +6,6 @@ namespace TeamPowered
 {
     class Person
     {
+        public string
     }
 }
